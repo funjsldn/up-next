@@ -10,7 +10,11 @@ Each meetup is an issue. If there's a date announced, the issue will have a date
 
 ## Panels
 
-Panel meetups will have an invited panel, with pre-selected questions from the audience. 
+Panel meetups will have an invited panel, with pre-selected questions from the audience.
+
+## Talks
+
+Either a single invited speaker, or a series of smaller talks.
 
 ## Hands on coding
 
