@@ -6,6 +6,8 @@ Our meetups have a simple structure:
 - hands on coding
 - sharing
 
+Each meetup is an issue. If there's a date announced, the issue will have a date. If it has a panel label, it's a panel and we're looking for suggested questions: just make a comment on the issue. If you see a question you like, simply hit :thumbsup:! 
+
 ## Panels
 
 Panel meetups will have an invited panel, with pre-selected questions from the audience. 
