@@ -1,4 +1,4 @@
-# up-next
+# Meetup planning
 
 Our meetups have a simple structure:
 
